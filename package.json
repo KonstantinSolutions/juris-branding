@@ -1,0 +1,19 @@
+{
+  "name": "juris-branding",
+  "version": "1.0.0",
+  "description": "Juris, PBC brand assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonstantinSolutions/juris-branding.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KonstantinSolutions/juris-branding/issues"
+  },
+  "homepage": "https://github.com/KonstantinSolutions/juris-branding#readme"
+}
